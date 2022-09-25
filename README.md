@@ -1,2 +1,5 @@
-# odin-landing-page
-Landing Page assignment from 'The Odin Project'
+# Project: Odin Landing Page
+An assigment in designing a Landing Page web page from 'The Odin Project'
+## Appendix
+
+[The Odin Project: Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)
