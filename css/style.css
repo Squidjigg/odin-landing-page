@@ -59,4 +59,17 @@ a {
     height:237px;
     width: 522px;
     background-color: gray;
-}            
+}
+
+.title-button {
+    font-size:18px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    width:130px;
+    height:36px;
+    border-width:0px;
+    color:#f9faf8;
+    font-weight:bold;
+    border-radius: 10px;
+    background:#3882f6;
+  }
