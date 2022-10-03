@@ -3,6 +3,10 @@ body{
     margin: 0;
 }
 
+a {
+    text-decoration: none;
+}
+
 .header, .footer {
     height: 72px;
     background-color: #1f2937;
@@ -24,9 +28,35 @@ body{
     color: #f9faf8;
 }
 
-.header-links, a {
+.header-links, .title-text {
     font-size: 18px;
     color: #e5e7eb;
-    text-decoration: none;
-    
 }
+
+/* title section */
+
+#title{
+    background-color: #1f2937;
+    padding: 0 200px;
+}
+
+.title-content{
+    display: flex;
+}
+
+.title-left{
+    display: flex;
+    flex-direction: column;
+}
+
+.title-heading{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.title-image{
+    height:237px;
+    width: 522px;
+    background-color: gray;
+}            
